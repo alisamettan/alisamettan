@@ -1,46 +1,10 @@
-<h1 style="font-family: Arial,sans-serif;">Hi 👋, I'm Ali Samet Tan!</h1>
-
-I'm a passionate software developer with hands-on experience gained through internships and roles at startups. Specializing in Full Stack Development, I'm proficient in Java, Spring Boot, HTML, CSS, JavaScript, and React. I'm dedicated to staying updated with the latest technologies to enhance user experiences. Collaboration, clear communication, and continuous learning drive my journey in delivering innovative software solutions. With a keen passion for software development, I thrive on challenges and enjoy pushing the boundaries in the dynamic tech industry.
-
-
-<h2>Languages and Tools:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/852bbf1c-d4ec-469b-90dc-c6799bc66dd6" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/336204c0-9a83-4f36-ad1f-ea6068fb1152" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/b1a78418-f095-4ebe-a2ca-c63ff54a1d27" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/2b603cec-cae2-4b61-8874-2b85e292bf82" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/c4e6e175-74fd-49fa-8a31-152f608c74a8" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/03d14159-8c90-44b9-a325-184d4472ed2a" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/1ec4dea5-5da3-42da-831b-d978e1892ee3" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/b021b712-6c13-4e74-b033-9250df459763" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/fe8c3d1b-9f1d-4c5f-aec1-97d215968332" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/89640fbc-ce30-4ce7-a914-89fd72788ec0" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/d84603a9-371b-4ae2-a5e9-c985685b81ba" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/d9cae8bd-fc3e-48b0-9817-1e0d0af0447a" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github.com/alisamettan/alisamettan/assets/57589255/c827f055-3fe9-4148-b864-b17d9f27959d" width="90" height="80" style="margin-right: 10px; margin-bottom: 10px;" />
-</div>
+<h1 align="center">Hi 👋, I'm Ali Samet Tan</h1>
+<h3 align="center">I'm a passionate software developer with hands-on experience gained through internships and roles at startups. Specializing in Full Stack Development, I'm proficient in Java, Spring Boot, HTML, CSS, JavaScript, and React. I'm dedicated to staying updated with the latest technologies to enhance user experiences. Collaboration, clear communication, and continuous learning drive my journey in delivering innovative software solutions. With a keen passion for software development, I thrive on challenges and enjoy pushing the boundaries in the dynamic tech industry.</h3>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisamettan&show_icons=true&locale=en&layout=compact" alt="alisamettan" /></p>
 
-
-
-
-
-
-
-
-<!--
-**alisamettan/alisamettan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisamettan&show_icons=true&locale=en" alt="alisamettan" /></p>
